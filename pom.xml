@@ -495,13 +495,13 @@
             </reporting>
         </profile>
     </profiles>
-    <DistributionManagement>
+    <distributionManagement>
         
         <repository>
             <id>release</id>
             <name>gameoflife-dev</name>
             <url>http://3.16.136.122:8081/repository/gameoflife-dev/</url>
         </repository>
-        </DistribtionManagement>
+        </distribtionManagement>
 </project>
 
