@@ -499,8 +499,8 @@
         
         <repository>
             <id>release</id>
-            <name>gameoflife-qa</name>
-            <url>http://18.220.2.54:8081/#admin/repository/repositories:gameoflife-qa</url>
+            <name>gameoflife-uat</name>
+            <url>http://18.220.2.54:8081/#admin/repository/repositories:gameoflife-uat</url>
         </repository>
         </distributionManagement>
 </project>
