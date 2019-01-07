@@ -499,8 +499,8 @@
         
         <repository>
             <id>release</id>
-            <name>gameoflife-qa</name>
-            <url>http://18.220.2.54:8081/#admin/repository/repositories:gameoflife-qa</url>
+            <name>gameoflife</name>
+            <url>https://prathyuwebapp-prathyuslot.azurewebsites.net</url>
         </repository>
         </distributionManagement>
 </project>
